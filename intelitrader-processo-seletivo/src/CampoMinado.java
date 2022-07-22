@@ -1,3 +1,4 @@
+//Link do exercício: https://dojopuzzles.com/problems/campo-minado/
 import java.util.Scanner;
 
 public class CampoMinado {
