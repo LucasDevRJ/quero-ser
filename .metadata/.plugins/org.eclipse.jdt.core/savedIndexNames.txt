@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Users\lucas\Documents\quero-ser\.metadata\.plugins\org.eclipse.jdt.core
+1705134046.index
+3481260218.index
+1865797976.index
